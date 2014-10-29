@@ -3,4 +3,7 @@
 *.log
 *.lot
 *.toc
+*.nav
+*.out
+*.snm
 .DS_Store
